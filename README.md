@@ -86,7 +86,13 @@ Department of AI, Vidya Jyothi Institute of Technology, Hyderabad
 
 1. M R Chitale et al. “Automated Smart Waste Segregation using IoT”, *Journal of Physics: Conference Series*, 2023  
 2. Gayathri Rajakumaran et al. “Smart Waste Management: Waste Segregation using ML”, *RAWCET 2022*  
-3. Aatmaj A. Salunke, “Waste-Seg-Net: Deep Learning for Waste Segregation”, 2023  
+3. Aatmaj A. Salunke, “Waste-Seg-Net: Deep Learning for Waste Segregation”, 2023
+
+---
+
+
+<img width="300" height="184" alt="image" src="https://github.com/user-attachments/assets/7ba6fc25-7866-421a-8993-6073a5e238e3" />
+
 
 ---
 
