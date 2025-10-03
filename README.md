@@ -90,11 +90,18 @@ Department of AI, Vidya Jyothi Institute of Technology, Hyderabad
 
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/691f210a-d5bb-4ab4-96ef-b33bec148f3b" 
+       alt="Stack Flow" 
+       width="800" />
+</p>
+
+---
+
+
 Thank you for visiting! We welcome contributions, issues, and ideas to expand this system for greater impact.  
 
 ---
 
 
-
 ![WhatsApp Image 2025-09-30 at 13 08 28_3bcff0ae](https://github.com/user-attachments/assets/691f210a-d5bb-4ab4-96ef-b33bec148f3b)
-
