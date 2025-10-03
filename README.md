@@ -91,7 +91,7 @@ Department of AI, Vidya Jyothi Institute of Technology, Hyderabad
 ---
 
 
-<img width="300" height="184" alt="image" src="https://github.com/user-attachments/assets/7ba6fc25-7866-421a-8993-6073a5e238e3" />
+![WhatsApp Image 2025-09-30 at 13 08 28_3bcff0ae](https://github.com/user-attachments/assets/691f210a-d5bb-4ab4-96ef-b33bec148f3b)
 
 
 ---
